@@ -1,0 +1,1 @@
+This project called "Calculator" is my very first Java Swing GUI application program that I've built so far. The reason I made this application is to enhance and cultivate my programming skills particularly in GUI area since I'm not familiar with it yet. I'm looking forward to upload more of my projects soon in my Github account.
